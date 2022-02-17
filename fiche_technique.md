@@ -25,7 +25,7 @@ LIMINAL est une installation interactive qui vient mettre en image l'inexorable 
 - 
 
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif :
-Selon le site patenteux.com:
+Selon le site patenteux.com, cet oeuvre a besoin de:
 - Un anneau en aluminum illuminé composé de 5 arcs de 165 cm de long.
 - Une caméra usb de bonne qualité appliquée sur un côté de l'anneau.
 - Un ordinateur Windows exécutant Derivative TouchDesigner.
@@ -35,7 +35,8 @@ Selon le site patenteux.com:
 - Un subwoofer.
 - Un plinthe.
 - Du cablâge audio.
-- Un HDMI cable.
+- Un câble HDMI.
+
 
 -Liste des éléments nécessaires pour la mise en exposition
 
