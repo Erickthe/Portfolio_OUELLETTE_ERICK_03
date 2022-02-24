@@ -1,5 +1,7 @@
 # LIMINAL
 
+<img src="Image/photo_oeuvre.jpeg" style="width: 500px;"></img> 
+
 *Créée par Louis-Philippe Rondeau*
 
 ### Créée en 2018
@@ -21,6 +23,8 @@ L'anneau est fait d'aluminium en U de 2 cm de côté, recouvert d'acrylique blan
 - Selon le cartel de l'oeuvre:
 LIMINAL est une installation interactive qui vient mettre en image l'inexorable passage du temps. Elle cherche à réifier la frontière entre le présent et le passé. Dans un espace sombre , une arche lumineuse; il s'agit d'un portail temporel. Lorsqu'on traverse ce seuil, notre reflet projeté sur le mur adjacent se voit déployé dans le temps grâce à la technique du slit-scan. telle une métaphore visuelle - le passé qui s'empare sans cesse du présent - notre image se perd inexorablement dans la blancheur éthérée de l'oubli. 
 
+<img src="Image/croquis.jpeg" style="width: 500px;"></img> 
+
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif:
 Premièrement, il faut trouver un endroit sombre où la lumière du jour ne peut atteindre l'oeuvre car la projection pourrait être affectée par la lumière. La lumière peut rendre la vue sur l'oeuvre très difficile. Ensuite, il faut un mur blanc où il est possible de projeter les images. Il faut ensuite installer l'anneau, l'allumer en branchant les fils et installer la caméra qui capte les mouvements. Après, il faut brancher l'ordinateur pour faire marcher le logiciel.
@@ -41,6 +45,8 @@ Selon le site patenteux.com, cet oeuvre a besoin de:
 
 ### Liste des éléments nécessaires pour la mise en exposition:
 - Il faudrait avoir un lieu sombre pour que la lumière n'affecte pas l'oeuvre, des câbles de soutien et un mur blanc pour projeter l'image. 
+
+<img src="Image/photo_moi.jpeg" style="width: 500px;"></img> 
 
 ### Expérience vécue:
 - Quand j'étais à l'exposition Arsenal, Liminal m'avait intéressé. J'ai commencé par mettre ma main devant la caméra et de la bouger pour faire des formes spéciales sur le mur et ensuite, j'ai passé devant la caméra pour voir ce que cela faisait. J'ai interagit plusieurs fois pour voir quel genre d'images je pourrais faire.
