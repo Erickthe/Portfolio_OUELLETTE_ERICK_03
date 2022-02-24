@@ -21,8 +21,7 @@ LIMINAL est une installation interactive qui vient mettre en image l'inexorable 
 
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif:
-- 
-- 
+Premièrement, il faut trouver un endroit sombre où la lumière du jour ne peut atteindre l'oeuvre car la projection
 
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif :
 Selon le site patenteux.com, cet oeuvre a besoin de:
@@ -38,6 +37,10 @@ Selon le site patenteux.com, cet oeuvre a besoin de:
 - Un câble HDMI.
 
 
--Liste des éléments nécessaires pour la mise en exposition
+### Liste des éléments nécessaires pour la mise en exposition:
+- Il faudrait avoir un lieu sombre pour que la lumière n'affecte pas l'oeuvre, des câbles de soutien et un mur blanc pour projeter l'image. 
 
--Expérience vécue
+### Expérience vécue:
+- Quand j'étais à l'exposition Arsenal, Liminal m'avait intéressé. J'ai commencé par mettre ma main devant la caméra et de la bouger pour faire des formes spéciales sur le mur et ensuite, j'ai passé devant la caméra pour voir ce que cela faisait. J'ai interagit plusieurs fois pour voir quel genre d'images je pourrais faire.
+- J'ai bien aimé le fait que l'on pouvait faire plusieurs types d'images et certaines de ces images étaient plutôt drôles. Je pense que la technologie utilisé pour capter nos mouvements est très intéressante.
+- La seule chose que j'aurais fais autrement pour cette oeuvre serait qu'elle capte aussi les couleurs, mais je ne sais pas si c'est possible. Je pense que cela serait vraiment intéressant car les images seraient plus attirantes et plaisantes à regarder.
