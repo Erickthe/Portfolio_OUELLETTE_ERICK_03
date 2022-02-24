@@ -21,7 +21,7 @@ LIMINAL est une installation interactive qui vient mettre en image l'inexorable 
 
 
 ### Explications sur la mise en espace de l'oeuvre ou du dispositif:
-Premièrement, il faut trouver un endroit sombre où la lumière du jour ne peut atteindre l'oeuvre car la projection
+Premièrement, il faut trouver un endroit sombre où la lumière du jour ne peut atteindre l'oeuvre car la projection pourrait être affectée par la lumière. La lumière peut rendre la vue sur l'oeuvre très difficile. Ensuite, il faut un mur blanc où il est possible de projeter les images. Il faut ensuite installer l'anneau, l'allumer en branchant les fils et installer la caméra qui capte les mouvements. Après, il faut brancher l'ordinateur pour faire marcher le logiciel.
 
 ### Liste des composantes et techniques de l'oeuvre ou du dispositif :
 Selon le site patenteux.com, cet oeuvre a besoin de:
