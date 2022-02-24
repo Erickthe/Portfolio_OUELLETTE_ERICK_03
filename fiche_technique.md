@@ -16,6 +16,8 @@
 - Selon le site patenteux.com: 
 L'anneau est fait d'aluminium en U de 2 cm de côté, recouvert d'acrylique blanc sur le côté ouvert. Il peut tenir debout sous son propre poids, mais doit être équilibré par de fins câbles métalliques fixés au plafond. Il est également possible de le fixer aux murs voisins. Dans le cas où la fixation au plafond ou au mur est irréalisable, on peut envisager, en dernier recours, d'utiliser des caissons de cinéma avec des sacs de sable. L'anneau est conçu pour être portable et facile à assembler.
 
+<img src="cartel.jpeg"
+
 - Selon le cartel de l'oeuvre:
 LIMINAL est une installation interactive qui vient mettre en image l'inexorable passage du temps. Elle cherche à réifier la frontière entre le présent et le passé. Dans un espace sombre , une arche lumineuse; il s'agit d'un portail temporel. Lorsqu'on traverse ce seuil, notre reflet projeté sur le mur adjacent se voit déployé dans le temps grâce à la technique du slit-scan. telle une métaphore visuelle - le passé qui s'empare sans cesse du présent - notre image se perd inexorablement dans la blancheur éthérée de l'oubli. 
 
