@@ -25,8 +25,9 @@ Chaque poème met en scène des personnages en marge de la catastrophe. Vous ser
 Basée sur la suite poétique Ciel à outrances de Madeleine Monette publiée aux Éditions de I'Hexagone.
 
 ###### Cet extrait vient du site web du Centre Phi dans l'événement Ciel à outrances.
+https://phi.ca/fr/evenements/ciel-a-outrances/
 
-### Mise en espace de l'oeuvre:
+### Mise en espace de l'oeuvre et éléments nécessaires:
 
 Ciels à outrances requiert une pièce rectangulaire puisque l'oeuvre est dans un bac à sable rectangulaire. La pièce ne doit pas avoir de fenêtres car l'expérience doit être dans la noirceur. Ensuite, il faut placer plusieurs objets cassés dans le bac à sable comme des lampes, des fenêtres et un siège arrière d'une voiture. Et finalement, il faut installer les lumières qui entourent le bac à sable et d'autres dans les objets pour les illuminer. Finalement, il faut brancher les lumières pour qu'elles marchent.
 
@@ -36,9 +37,9 @@ Cette oeuvre requiert:
 
 Des écouteurs branchés à un ipad pour entendre les poèmes.
 
-Des lumières branchés dans le 
+Des lumières dans le bac à sable.
 
-
+### Expérience vécue:
 
 J'ai commencé l'oeuvre sur un siège arrière d'une voiture. J'entendais quelqu'un qui me racontait une histoire. Quand il avait arrêté, je devais me déplacer à un objet ou un débris qui produisait une lueur. En allant à cet objet lumineux, l'histoire se continuait. Les histoires de cette oeuvre sont basées sur les événements du 11 septembre 2001 quand les tours jumelles ont été frappés par des avions controllés par des terroristes. Une des histoires raconte le périple d'une femme enceinte qui commençait à accoucher pendant l'attaque.
 
