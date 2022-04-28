@@ -1,10 +1,22 @@
 # Ciels à outrances
 
-Créé par Brigitte Poupart et adapté d'un livre rédigé par Madeleine Monette en 2014. 
+### Réalisé par:
 
-Cette exposition est au centre Phi du 17 février au 15 mai 2022.
+Brigitte Poupart et adapté d'un livre rédigé par Madeleine Monette en 2014. 
+
+### Date de réalisation: 
+
+Cette exposition a été créer en 2021-2022. Cette oeuvre était en développement depuis quatre ans et la production a commencé il y a deux ans. 
+
+### Date de visite:
 
 J'ai visité cet événement le 4 mars 2022 pendant la semaine de relâche.
+
+### Lieu de l'exposition: 
+
+Centre Phi dans le vieux-Montréal.
+
+### Description de l'oeuvre:
 
 Votre voyage vous mènera à travers une grande pièce obscure recouverte de cendres et de débris. Que s'est-il passé? Par où commencer?
 
@@ -14,9 +26,19 @@ Basée sur la suite poétique Ciel à outrances de Madeleine Monette publiée au
 
 ###### Cet extrait vient du site web du Centre Phi dans l'événement Ciel à outrances.
 
+### Mise en espace de l'oeuvre:
+
 Ciels à outrances requiert une pièce rectangulaire puisque l'oeuvre est dans un bac à sable rectangulaire. La pièce ne doit pas avoir de fenêtres car l'expérience doit être dans la noirceur. Ensuite, il faut placer plusieurs objets cassés dans le bac à sable comme des lampes, des fenêtres et un siège arrière d'une voiture. Et finalement, il faut installer les lumières qui entourent le bac à sable et d'autres dans les objets pour les illuminer. Finalement, il faut brancher les lumières pour qu'elles marchent.
 
-Cette oeuvre requiert des écouteurs branchés à un ipad pour entendre les poèmes. 
+### Liste des composantes techniques:
+
+Cette oeuvre requiert: 
+
+Des écouteurs branchés à un ipad pour entendre les poèmes.
+
+Des lumières branchés dans le 
+
+
 
 J'ai commencé l'oeuvre sur un siège arrière d'une voiture. J'entendais quelqu'un qui me racontait une histoire. Quand il avait arrêté, je devais me déplacer à un objet ou un débris qui produisait une lueur. En allant à cet objet lumineux, l'histoire se continuait. Les histoires de cette oeuvre sont basées sur les événements du 11 septembre 2001 quand les tours jumelles ont été frappés par des avions controllés par des terroristes. Une des histoires raconte le périple d'une femme enceinte qui commençait à accoucher pendant l'attaque.
 
