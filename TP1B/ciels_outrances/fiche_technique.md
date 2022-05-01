@@ -1,6 +1,6 @@
 # Ciels à outrances
 
-<img src="media/photo_2.png" style="width: 500px;"></img> 
+<img src="media/photo_2.png" style="width: 1000px;"></img> 
 
 ### Réalisé par:
 
@@ -35,11 +35,15 @@ Ciels à outrances requiert une pièce rectangulaire puisque l'oeuvre est dans u
 
 ### Liste des composantes techniques:
 
+<img src="media/photo_4.png" style="width: 500px;"></img>  <img src="media/photo_6.png" style="width: 500px;"></img> 
+
 Cette oeuvre requiert: 
 
 Des écouteurs branchés à un ipad pour entendre les poèmes.
 
 Des lumières dans le bac à sable.
+
+Des barres noires qui captent les personnes et leurs mouvements
 
 ### Expérience vécue:
 
