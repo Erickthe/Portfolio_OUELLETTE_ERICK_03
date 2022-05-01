@@ -16,6 +16,10 @@ Maison des arts de Laval, dans la salle Alfred Pellan.
 ### Date de visite:
 Jeudi 17 mars 2021.
 
+Description de l'oeuvre:
+
+<img src="media/cartel.png" style="width: 500px;"></img> 
+
 
 
 
