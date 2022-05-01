@@ -1,5 +1,7 @@
 # Mécansimes de dessaisissement (rond, carré, triangle)
 
+<img src="media/carre.png" style="width: 333px;"></img> <img src="media/cercle.png" style="width: 333px;"></img> <img src="media/triangle.png" style="width: 333px;"></img> 
+
 ### Firme:
 Maison des arts de Laval.
 
