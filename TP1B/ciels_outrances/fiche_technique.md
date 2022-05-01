@@ -1,6 +1,6 @@
 # Ciels à outrances
 
-<img src="" style="width: 500px;"></img> 
+<img src="media/photo_2.png" style="width: 500px;"></img> 
 
 ### Réalisé par:
 
