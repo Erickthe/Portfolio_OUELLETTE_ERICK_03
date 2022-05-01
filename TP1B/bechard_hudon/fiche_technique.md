@@ -30,7 +30,7 @@ Premièrement, il faut prendre un mur pour accrocher l'oeuvre. Le mur doit être
 
 ### Composantes techniques:
 
-<img src="media/carre.png" style="width: 300px;"></img> 
+<img src="media/cercle_2.png" style="width: 500px;"></img> 
 
 Des capteurs, les formes colorées, les formes blanches et des bâtons métalliques où vont les fils.
 
