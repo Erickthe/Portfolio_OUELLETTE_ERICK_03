@@ -51,9 +51,13 @@ Des lumières branchées dans les décombres et à l'entour du bac à sable.
 
 ### Expérience vécue:
 
+<img src="media/photo_5.png" style="width: 1000px;"></img> 
+
 J'ai commencé l'oeuvre sur un siège arrière d'une voiture. J'entendais quelqu'un qui me racontait une histoire. Quand il avait arrêté, je devais me déplacer à un objet ou un débris qui produisait une lueur. En allant à cet objet lumineux, l'histoire se continuait. Les histoires de cette oeuvre sont basées sur les événements du 11 septembre 2001 quand les tours jumelles ont été frappés par des avions controllés par des terroristes. Une des histoires raconte le périple d'une femme enceinte qui commençait à accoucher pendant l'attaque.
 
 J'ai aimé le fait que l'oeuvre nous démontre ce qui a pu arriver pendant cette attaque terroriste. Notre génération n'a jamais connu 9/11 donc cette oeuvre nous permet de comprendre ce qui s'est passé. Mais mon problème avec cette oeuvre, c'est qu'on m'a demandé à la fin d'écrire sur un papier ce que je me rapellait de 9/11. Puisque je suis né en 2004, je ne pouvais pas faire ca. Ce n'est pas un grand problème mais cet événement est disponible pour les personnes âgées de 11 ans et plus donc je ne pense pas que c'est nécessaire de faire cela. Mais je pense qu'elle devrait être une expérience personnelle car une vieille madame avait en quelque sorte ruinée mon expérience car elle utilisait sa flashlight pour voir le sol. Cela m'a irrité et m'a beaucoup dérangé. J'ai été déçu de l'employé qui s'occupait de mon groupe car il était ennuyant et avait un mauvais caractère. Et finalement, l'audio était parfois incompréhensible, je ne sais pas si c'était intentionné mais c'était décevant.
+
+<img src="media/croquis.png" style="width: 1000px; height: 500px;"></img> 
 
 Vidéo du site: https://www.youtube.com/watch?v=Cymz3hW6f24.
 
