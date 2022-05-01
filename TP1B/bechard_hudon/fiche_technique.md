@@ -30,7 +30,7 @@ Premièrement, il faut prendre un mur pour accrocher l'oeuvre. Le mur doit être
 
 ### Composantes techniques:
 
-<img src="media/" style="width: 300px;"></img> 
+<img src="media/carre.png" style="width: 300px;"></img> 
 
 Des capteurs, les formes colorées, les formes blanches et des bâtons métalliques où vont les fils.
 
@@ -39,6 +39,8 @@ La seule chose nécessaire pour faire la mise en exposition sont des barres mét
 
 ### Expérience vécue:
 Mon expérience avec cette oeuvre était intéressante. Son interactivité est plutôt basique, il faut simplement se placer devant l'oeuvre et elle commence à bouger dans des sens différents. Le concept de cet oeuvre est unne bonne idée mais je pense que cela requiert trop de temps car il faut que la personne regarde l'oeuvre pendant un long moment pour voir si l'oeuvre bouge. J'ai compris ce qu'elle faisait après avoir revenu à l'oeuvre car je voyais enfin qu'elle avait fait bouger les formes. Je pense que si le mouvement était plus rapide et plus apparent, j'aurais probablement plus aprrécié cette oeuvre.
+
+<img src="croquis/croqui.png" style="width: 1000px;"></img> 
 
 
 
