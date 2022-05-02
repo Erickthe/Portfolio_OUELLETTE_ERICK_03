@@ -25,7 +25,7 @@ Référence: site des créations des finnissants. https://tim-montmorency.com/20
 ### Mise en espace: 
 Pour cette oeuvre, il faut installer des rideaux dans le petit studio où les images vont être projetées. Ensuite, il y a des speakers qu'il faut connecter à un ordinateur pour diffusé la traque sonore. Il faut aussi placer des spotlight sur le plafond. Il faut connecter les projecteurs à un ordi. Il faut ensuite placer la colonne au milieu de la salle pour ensuite placer l'horloge dessus. Finalement, il faut connecter le mécanisme attaché à l'horloge à une prise de courant et aussi placer le téléphone.
 
-<img src=""
+<img src="media/plantation.png">
 
 ### Composantes techniques:
 - Ordinateur
